@@ -94,5 +94,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact 📧
 
-Your Name - Udit Jhanjhariya
+Udit Jhanjhariya
 
