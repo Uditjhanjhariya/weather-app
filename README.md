@@ -30,11 +30,9 @@ A modern, responsive weather application that provides real-time weather informa
 
 ```
 weather-app/
-├── model/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── README.md
+├── index.html
+├── style.css
+├── script.js
 └── requirements.txt
 ```
 
